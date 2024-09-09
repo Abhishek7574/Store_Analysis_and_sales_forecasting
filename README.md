@@ -1,4 +1,4 @@
-# Superstore Sales Analysis and Forecasting
+# Store Sales Analysis and Forecasting
 <img src="https://github.com/Fardin-Data/Superstore-Sales-Analysis-and-Forecasting/assets/137788371/0d26d4a0-80cd-4f6e-bcb6-37af346c1fcc" width="1400">
 
   
@@ -79,7 +79,7 @@ Project relies on the following key technologies:
 ## Files Information
 `Data`
 
-- **SuperStore Processed Data:** This file holds the data that has undergone cleaning and processing.
+- **Store Processed Data:** This file holds the data that has undergone cleaning and processing.
 - **Sales TimeSeries:** This file includes an additional table created using DAX, which played a role in the forecasting process.
 
 - **Sales Dashboard:** Within this section, you will find two sheets - one dedicated to the interactive dashboard and the other to the forecasting report.
