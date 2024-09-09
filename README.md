@@ -84,13 +84,6 @@ Project relies on the following key technologies:
 
 - **Sales Dashboard:** Within this section, you will find two sheets - one dedicated to the interactive dashboard and the other to the forecasting report.
 
-## Data Source
-The Superstore Sales Data used in this project can be accessed [here](https://drive.google.com/drive/folders/1t_r26xUjm5ZyEFFOF3AD1BmOvUgQaxd1?usp=sharing).
-
-## License
-This project is licensed under the MIT License. You are free to use, modify, and distribute the code and visuals as long as the original license terms are maintained.
-
----
 
 Enjoy exploring the Power BI Sales Insights and Forecasting Dashboard! If you have questions or feedback, feel free to contact me.
 
